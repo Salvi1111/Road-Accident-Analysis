@@ -7,14 +7,14 @@ In this project, We performed a detailed statistical data analysis on Road Accid
 
 The relevant data supporting for the analysis is available as listed below,
 
-DF - Analysing Accidents per Lakh Population-State-Year.
-DF1 - Analysing Offender and Victim Deaths per Gender, State.
-DF2 - Analysing Deaths occurred due to improper use of Safety Accessories.
-DF3 - Analysing rate of accidents from the year 2003 to 2016 for each state.
-DF4 - Analysing accidents/injuries/deaths occurring as per number of lanes.
-DF5 - Analysing accidents/injuries/deaths occurring due to various faults/reasons.
-DF6 - Analysing accidents/injuries/deaths as per the types of vehicles.
-DF7 - Analysing number of accidents which take place as per time of occurrence.
+###### DF - Analysing Accidents per Lakh Population-State-Year.
+###### DF1 - Analysing Offender and Victim Deaths per Gender, State.
+###### DF2 - Analysing Deaths occurred due to improper use of Safety Accessories.
+###### DF3 - Analysing rate of accidents from the year 2003 to 2016 for each state.
+###### DF4 - Analysing accidents/injuries/deaths occurring as per number of lanes.
+###### DF5 - Analysing accidents/injuries/deaths occurring due to various faults/reasons.
+###### DF6 - Analysing accidents/injuries/deaths as per the types of vehicles.
+###### DF7 - Analysing number of accidents which take place as per time of occurrence.
 
 We have gathered insights from our analysis of road accidents, providing responses to the below mentioned questions with statistical analysis or in a graphical representation using python code snippets
 
